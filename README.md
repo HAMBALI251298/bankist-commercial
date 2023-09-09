@@ -1,1 +1,2 @@
-# https://github.com/HAMBALI251298/bankist-commercial/tree/main
+A fictious banking commercial application built with JavaScript
+https://uuvedant4.github.io/bankist-commercial/
